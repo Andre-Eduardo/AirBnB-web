@@ -9,8 +9,8 @@ import { Form, Container } from "./styles";
 
 class SignIn extends Component {
   state = {
-    email: "",
-    password: "",
+    email: "andre.eduardo11@hotmail.com",
+    password: "123456",
     error: ""
   };
 
